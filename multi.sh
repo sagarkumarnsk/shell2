@@ -1,5 +1,5 @@
 #!/bin/bash
-a=900
+a=1000
 b=100
 (( multi = a - b ))
 echo "$multi"
